@@ -1,0 +1,66 @@
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\appsettings.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.staticwebassets.runtime.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.exe
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.deps.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.runtimeconfig.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.dll
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.pdb
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.AssemblyInfoInputs.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.AssemblyInfo.cs
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.CoreCompileInputs.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.RazorAssemblyInfo.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.RazorAssemblyInfo.cs
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.TestForCompany.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.build.TestForCompany.props
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestForCompany.props
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestForCompany.props
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\bundle\TestForCompany.styles.css
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\projectbundle\TestForCompany.bundle.scp.css
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.dll
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\refint\TestForCompany.dll
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.pdb
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.genruntimeconfig.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\ref\TestForCompany.dll
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.AssemblyReference.cache
+C:\Users\КОЛЯ\RiderProjects\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.CopyComplete
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\appsettings.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.staticwebassets.runtime.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.exe
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.deps.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.runtimeconfig.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.dll
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\TestForCompany.pdb
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.AssemblyReference.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.AssemblyInfoInputs.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.AssemblyInfo.cs
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.CoreCompileInputs.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.RazorAssemblyInfo.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.RazorAssemblyInfo.cs
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.TestForCompany.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.build.TestForCompany.props
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestForCompany.props
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestForCompany.props
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\bundle\TestForCompany.styles.css
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\scopedcss\projectbundle\TestForCompany.bundle.scp.css
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.csproj.CopyComplete
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.dll
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\refint\TestForCompany.dll
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.pdb
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\TestForCompany.genruntimeconfig.cache
+C:\Users\225588\Downloads\Telegram Desktop\TestForCompany\TestForCompany\obj\Debug\net7.0\ref\TestForCompany.dll
